@@ -1,370 +1,285 @@
 const data = [
   {
-    Name: "Soumitra Bapat",
+    Name: "Aaditya Shirke",
     Board: "Assistant",
     Position: "Assistant Secretary",
     Photo:
-      "https://res.cloudinary.com/du3cgjere/image/upload/v1693624876/sait%20images/Soumitra_tbmuew.jpg",
-    LinkedInProfile: "https://www.linkedin.com/in/soumitra-bapat-78772125b",
-    GitHubProfile: "https://github.com/LR7Garmi",
+      "https://res.cloudinary.com/dmeicehn2/image/upload/v1726398167/IMG_20240813_232523_-_Aaditya_Shirke_do8e7v.jpg",
+    LinkedInProfile: "https://www.linkedin.com/in/aaditya-shirke-b29791292/",
+    GitHubProfile: "https://github.com/Aadii-01",
     InstagramProfile:
-      "https://instagram.com/soumitra__9458?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D",
+      "https://www.instagram.com/aadiii__.01/",
   },
 
   {
-    Name: "Rucha Ikare",
+    Name: "Sai Badave ",
     Board: "Assistant",
     Position: "Assistant Secretary",
     Photo:
-      "https://res.cloudinary.com/du3cgjere/image/upload/v1693624856/sait%20images/Rucha_Ikare_j5u9qr.jpg",
-    LinkedInProfile: "https://www.linkedin.com/in/rucha-ikare",
-    GitHubProfile: "https://github.com/Ruch13",
-    InstagramProfile: "https://www.instagram.com/rucha_ikare/",
+      "https://res.cloudinary.com/dmeicehn2/image/upload/v1726398165/IMG_20240813_222701_-_Sai_Badave_zup8f0.jpg",
+    LinkedInProfile: "https://www.linkedin.com/in/saibadave",
+    GitHubProfile: "https://github.com/SaiBadave",
+    InstagramProfile: "",
   },
 
   {
-    Name: "Sharvari Jadhav",
-    Board: "Assistant",
-    Position: "Assistant Secretary",
-    Photo:
-      "https://res.cloudinary.com/dptdrzycj/image/upload/v1704356594/Sharvari_Jadhav_-_Sharvari_Jadhav_izrikj.jpg",
-    LinkedInProfile: "https://www.linkedin.com/in/jadhav-sharvari09",
-    GitHubProfile: "https://github.com/sharvari-09",
-    InstagramProfile: null,
-  },
-
-  {
-    Name: "Parag Patkulkar",
+    Name: "Ragini Ambi",
     Board: "Assistant",
     Position: "Assistant Program Director",
     Photo:
-      "https://res.cloudinary.com/du3cgjere/image/upload/v1693624851/sait%20images/Parag_Patkulkar_tynhxe.jpg",
-    LinkedInProfile: "https://www.linkedin.com/in/parag-patkulkar-ba00891a8",
-    GitHubProfile: "https://github.com/Quanta3",
-    InstagramProfile: "https://www.instagram.com/_para.g403",
+      "https://res.cloudinary.com/dmeicehn2/image/upload/v1726398177/IMG_20231206_140611_-_Ragini_Ambi_nxxjhc.jpg",
+    LinkedInProfile: "https://www.linkedin.com/in/ragini-ambi-ba59a428a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+    GitHubProfile: "https://github.com/Raginiambi",
+    InstagramProfile: "https://www.instagram.com/raginiambi22?igsh=enNhOHp0NWVkZXo4",
   },
 
   {
-    Name: "Srushti Karadi",
+    Name: "Upanishad Kachroo",
     Board: "Assistant",
     Position: "Assistant Program Director",
     Photo:
-      "https://res.cloudinary.com/du3cgjere/image/upload/v1693624876/sait%20images/Srushti_Karadi_zsnrwh.jpg",
-    LinkedInProfile: "https://www.linkedin.com/in/srushti-karadi-21645b27a",
-    GitHubProfile: "https://github.com/srushtikd13",
+      "https://res.cloudinary.com/dmeicehn2/image/upload/v1726398168/WhatsApp_Image_2024-07-28_at_00.50.39_c7c5460d_-_Upanishad_Kachroo_pdo8bg.jpg",
+    LinkedInProfile: "https://www.linkedin.com/in/upanishad-kachroo-276463286/",
+    GitHubProfile: "https://github.com/Upanishadkachroo",
     InstagramProfile:
-      "https://instagram.com/ksrushti_1111?igshid=MzRlODBiNWFlZA==",
+      "",
   },
   {
-    Name: "Manmath  Mungde",
+    Name: "Pruthviraj Desai",
     Board: "Assistant",
     Position: "Assistant Program Director",
     Photo:
-      "https://res.cloudinary.com/du3cgjere/image/upload/v1693624849/sait%20images/Manmath_Mungde_xfze6n.jpg",
-    LinkedInProfile: "https://www.linkedin.com/in/manmath-mungde-5b388825b",
-    GitHubProfile: "https://github.com/manmath_18",
-    InstagramProfile: "https://www.instagram.com/manmath_mungde",
+      "https://res.cloudinary.com/dmeicehn2/image/upload/v1726398149/IMG_20240227_172203443_-_Desai_Pruthviraj_mc7dqv.jpg",
+    LinkedInProfile: "https://www.linkedin.com/in/desai-pruthviraj-509941287?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+    GitHubProfile: "https://github.com/PrDesai2004",
+    InstagramProfile: "",
   },
   {
-    Name: "Vedant Lonkar",
+    Name: "Dhanraj jadhav",
     Board: "Assistant",
     Position: "Assistant Program Director",
     Photo:
-      "https://res.cloudinary.com/dptdrzycj/image/upload/v1704629195/1bdbc0ae-d509-44bf-a461-c9e8135dba03_lawzcm.jpg",
-    LinkedInProfile: "https://www.linkedin.com/in/vedant-lonkar-4a37a91b8",
-    GitHubProfile: "https://github.com/vedantlonkar23",
-    InstagramProfile: "https://www.instagram.com/mevedantlonkar",
+      "https://res.cloudinary.com/dmeicehn2/image/upload/v1726399478/20230627_134849_2_-_Dhanraj_jadhav_fmw2id.jpg",
+    LinkedInProfile: "https://www.linkedin.com/in/dhanraj-jadhav-473451291/",
+    GitHubProfile: "https://github.com/dhanraj-12",
+    InstagramProfile: "",
   },
+
   {
-    Name: "Aaryash Devane",
-    Board: "Assistant",
-    Position: "Assistant Program Director",
-    Photo:
-      "https://res.cloudinary.com/du3cgjere/image/upload/v1693624823/sait%20images/Aaryash_Devane_atycqf.jpg",
-    LinkedInProfile: "https://www.linkedin.com/in/aaryash-devane",
-    GitHubProfile: "https://github.com/Aaryashdevane",
-    InstagramProfile: "https://www.instagram.com/Cadet_0110",
-  },
-  {
-    Name: "Prapti Gawande",
+    Name: "Swanand Desai",
     Board: "Assistant",
     Position: "Assistant Club Service Director",
     Photo:
-      "https://res.cloudinary.com/du3cgjere/image/upload/v1693624854/sait%20images/Prapti_Gawande_saci3u.jpg",
-    LinkedInProfile: "https://www.linkedin.com/in/prapti-gawande-54003b25a",
-    GitHubProfile: "https://github.com/praptigawande2812",
+      "https://res.cloudinary.com/dmeicehn2/image/upload/v1726398192/IMG_20240811_222014477-min_1_-_Swanand_Desai_PRN_.23610068_tmzgda.jpg",
+    LinkedInProfile: "https://www.linkedin.com/in/swanand-desai-b3035828b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+    GitHubProfile: "",
     InstagramProfile:
-      "https://instagram.com/praptigawande_28?utm_source=qr&igshid=NGExMmI2YTkyZg%3D%3D",
+      "https://www.instagram.com/swanand475",
   },
 
   {
-    Name: "Hemant Sharma",
+    Name: "Sakshi Bhosale",
     Board: "Assistant",
     Position: "Assistant Club Service Director",
     Photo:
-      "https://res.cloudinary.com/du3cgjere/image/upload/v1693624845/sait%20images/Hemant_Sharma_dsdhan.jpg",
-    LinkedInProfile: "",
+      "https://res.cloudinary.com/dmeicehn2/image/upload/v1726398172/IMG_20240813_223102_-_Sakshi_Bhosale_vrl8rf.jpg",
+    LinkedInProfile: "https://www.linkedin.com/in/sakshi-bhosale-93b21a323",
     GitHubProfile: "",
     InstagramProfile: "",
   },
 
   {
-    Name: "Shruti Ramteke",
+    Name: "Aryan Desai",
     Board: "Assistant",
     Position: "Assistant Club Service Director",
     Photo:
-      "https://res.cloudinary.com/du3cgjere/image/upload/v1693624873/sait%20images/Shruti_Ramteke_ss7bif.jpg",
+      "https://res.cloudinary.com/dmeicehn2/image/upload/v1726398161/Sharing_via_Kaagaz_Scanner_-_Aryan_Desai_eousvo.jpg",
+    LinkedInProfile: "https://www.linkedin.com/in/aryan-desai-35637928b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+    GitHubProfile: "https://github.com/Aryan-Desai12",
+    InstagramProfile: "https://www.instagram.com/winter_soldier0012?igsh=ZHZyNWxwN2pmMWEx",
+  },
+
+  {
+    Name: "Haripriya Yele",
+    Board: "Assistant",
+    Position: "Assistant Club Service Director",
+    Photo:
+      "https://res.cloudinary.com/dmeicehn2/image/upload/v1726398151/DSC_0041_-_Haripriya_Yele_px7t9w.jpg",
+    LinkedInProfile: "https://www.linkedin.com/in/haripriya-yele-38a5a5289?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+    GitHubProfile: "https://github.com/ari2507",
+    InstagramProfile: "https://www.instagram.com/its_hari073/",
+  },
+
+  {
+    Name: "Spandan Meshram",
+    Board: "Assistant",
+    Position: "Assistant Web Developer",
+    Photo:
+      "https://res.cloudinary.com/dmeicehn2/image/upload/v1726398163/IMG_20240813_231538_-_Spandan_Meshram_ttboja.jpg",
+    LinkedInProfile: "https://www.linkedin.com/in/spandan-meshram-46941b2a8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+    GitHubProfile: "https://github.com/Spandan-m-28",
+    InstagramProfile: "https://www.instagram.com/spandan_m_28/",
+  },
+  {
+    Name: "Tanish Bhongade",
+    Board: "Assistant",
+    Position: "Assistant Web Developer",
+    Photo:
+      "https://res.cloudinary.com/dmeicehn2/image/upload/v1726398186/photo_latest_-_Tanish_Bhongade_xk0grt.jpg",
+    LinkedInProfile: "https://www.linkedin.com/in/tanishbhongade",
+    GitHubProfile: "https://github.com/tanishbhongade",
+    InstagramProfile: "https://www.instagram.com/tanishbhongade/",
+  },
+  {
+    Name: "Sanvi Bongale",
+    Board: "Assistant",
+    Position: "Assistant Web Developer",
+    Photo:
+      "https://res.cloudinary.com/dmeicehn2/image/upload/v1726398174/20240401_201718_-_23610028_BONGALE_SANVI_NITIN_zzhflp.jpg",
+    LinkedInProfile: "https://www.linkedin.com/in/sanvi-bongale-5988b5292",
+    GitHubProfile: "https://github.com/SanviBongale28",
+    InstagramProfile: "https://www.instagram.com/sanvibongale?igsh=MTdrZXNlNTBoODZtNA==",
+  },
+  {
+    Name: "Vishwadeep Sutar",
+    Board: "Assistant",
+    Position: "Assistant Programming Expert",
+    Photo:
+      "https://res.cloudinary.com/dmeicehn2/image/upload/v1726400837/IMG-20240814-WA0008_-_23610077_SUTAR_VISHWADEEP_VISHVANATH_1_neekwh.jpg",
+    LinkedInProfile: "https://www.linkedin.com/in/vishwadeep-sutar-1b65b1322",
+    GitHubProfile: "https://github.com/Vishwadeep112004",
+    InstagramProfile: "https://www.instagram.com/vishwadeep435/",
+  },
+  {
+    Name: "Pratik Magdum",
+    Board: "Assistant",
+    Position: "Assistant Programming Expert",
+    Photo:
+      "https://res.cloudinary.com/dmeicehn2/image/upload/v1726398139/Screenshot_2024-09-15-16-26-07-32_92460851df6f172a4592fca41cc2d2e6_yl0hy4.jpg",
+    LinkedInProfile: "https://www.linkedin.com/in/pratik-magdum-2628b7292?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+    GitHubProfile: "",
+    InstagramProfile: "https://www.instagram.com/pratik_magdum_o9?igsh=am9hejJxaml0YnBv",
+  },
+  {
+    Name: "Ashutosh Shingan",
+    Board: "Assistant",
+    Position: "Assistant Public Relation Officer",
+    Photo:
+      "https://res.cloudinary.com/dmeicehn2/image/upload/v1726398180/Ashu_PHOTO_-_23610070_SHINGAN_ASHUTOSH_ANANDA_ic9yge.jpg",
+    LinkedInProfile: "http://www.linkedin.com/in/ashutosh-shingan-5a78ab290",
+    GitHubProfile: "https://github.com/Ashushingan",
+    InstagramProfile: "",
+  },
+  {
+    Name: "Vaishnavi Bharambe",
+    Board: "Assistant",
+    Position: "Assistant Public Relation Officer",
+    Photo:
+      "https://res.cloudinary.com/dmeicehn2/image/upload/v1726398152/photo_2_-_23610010_BHARAMBE_VAISHNAVI_KAILAS_vl3js1.jpg",
+    LinkedInProfile: "https://www.linkedin.com/in/vaishnavi-bharambe-646783293/",
+    GitHubProfile: "https://github.com/Vaishnavi-Bharambe",
+    InstagramProfile:
+      "",
+  },
+
+  {
+    Name: "Animesh Gawhale",
+    Board: "Assistant",
+    Position: "Assistant Public Relation Officer",
+    Photo:
+      "https://res.cloudinary.com/dmeicehn2/image/upload/v1726398145/animesh_-_Animesh_Gawhale_mrh3sm.jpg",
+    LinkedInProfile: "https://www.linkedin.com/in/animesh-gawhale-a4491b296?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+    GitHubProfile: "https://github.com/Anime181",
+    InstagramProfile:
+      "https://www.instagram.com/gawhaleanimesh?igsh=MXVsM3h4Y3A4a2I5OA==",
+  },
+
+  {
+    Name: "Tanmay Kamble",
+    Board: "Assistant",
+    Position: "Assistant Public Relation Officer",
+    Photo:
+      "https://res.cloudinary.com/dmeicehn2/image/upload/v1726398142/23610041_-_Tanmay_Kamble_xta684.jpg",
+    LinkedInProfile:
+      "",
+    GitHubProfile: null,
+    InstagramProfile: "",
+  },
+  {
+    Name: "Yogesh Joshi",
+    Board: "Assistant",
+    Position: "Assistant Aptitude Developer",
+    Photo:
+      "https://res.cloudinary.com/dmeicehn2/image/upload/v1726398144/IMG-20240809-WA0110_-_Yogesh_Joshi_sqb2j5.jpg",
+    LinkedInProfile: "https://www.linkedin.com/in/yogesh-joshi-7a6487292?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+    GitHubProfile: "",
+    InstagramProfile:
+      "",
+  },
+
+  {
+    Name: "Abhishek Bhosale",
+    Board: "Assistant",
+    Position: "Assistant Aptitude Developer",
+    Photo:
+      "https://res.cloudinary.com/dmeicehn2/image/upload/v1726398143/jpeg-optimizer_Image_to_PDF_20240805_115129-1_-_23610064_BHOSALE_ABHISHEK_NILAKANTH_tnjk00.jpg",
     LinkedInProfile: "",
-    GitHubProfile: "https://github.com/131shruti",
-    InstagramProfile: "",
-  },
-
-  {
-    Name: "Sandesh Shinde",
-    Board: "Assistant",
-    Position: "Assistant Club Service Director",
-    Photo:
-      "https://res.cloudinary.com/dptdrzycj/image/upload/v1704356554/20231231_175933_-_Sandesh_Shinde_bhcg8x.jpg",
-    LinkedInProfile: "www.linkedin.com/in/sandesh-shinde-s1730",
-    GitHubProfile: "https://github.com/sandeshshinde30",
-    InstagramProfile: "https://www.instagram.com/sandesh_shinde_1730/",
-  },
-
-  {
-    Name: "Shashank Pujari",
-    Board: "Assistant",
-    Position: "Assistant Club Service Director",
-    Photo:
-      "https://res.cloudinary.com/dptdrzycj/image/upload/v1704356647/IMG-20230218-WA0019_2_-_22610045_PUJARI_SHASHANK_SHRIDHAR_ggw43j.jpg",
-    LinkedInProfile:
-      "https://www.linkedin.com/in/shashank-pujari-624190261?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-    GitHubProfile: null,
-    InstagramProfile:
-      "https://www.instagram.com/shashankpujari_18?igsh=djd5YWR2ZXJrbml6",
-  },
-  {
-    Name: "Tanmay Shingde",
-    Board: "Assistant",
-    Position: "Assistant Web Developer",
-    Photo:
-      "https://res.cloudinary.com/du3cgjere/image/upload/v1693624878/sait%20images/Tanmay_Shingde_zdxxrj.png",
-    LinkedInProfile: "https://www.linkedin.com/in/tanmay-shingde-6084ab250/",
-    GitHubProfile: "https://github.com/tanmay-8",
-    InstagramProfile: "https://www.instagram.com/tanmayshingde",
-  },
-  {
-    Name: "Shreyas Kamble",
-    Board: "Assistant",
-    Position: "Assistant Web Developer",
-    Photo:
-      "https://res.cloudinary.com/du3cgjere/image/upload/v1693624863/sait%20images/Shreyas_Kambale_p6vevc.jpg",
-    LinkedInProfile: "https://www.linkedin.com/in/shreyas-kamble-aa465922a",
-    GitHubProfile: "https://github.com/shreyaskamble1612",
-    InstagramProfile: "https://www.instagram.com/shreyas__1612",
-  },
-  {
-    Name: "Vighnesh Potdar",
-    Board: "Assistant",
-    Position: "Assistant Web Developer",
-    Photo:
-      "https://res.cloudinary.com/du3cgjere/image/upload/v1693624881/sait%20images/Vighnesh_Potdar_xzika4.jpg",
-    LinkedInProfile: "https://www.linkedin.com/in/vighnesh-potdar-830222254",
-    GitHubProfile: "https://github.com/Voodels",
-    InstagramProfile: "https://www.instagram.com/vigg1837",
-  },
-  {
-    Name: "Omkar Patange",
-    Board: "Assistant",
-    Position: "Assistant Web Developer",
-    Photo:
-      "https://res.cloudinary.com/du3cgjere/image/upload/v1693624854/sait%20images/Omkar_Patange_m3087q.jpg",
-    LinkedInProfile: "https://www.linkedin.com/in/omkar-patange-4179b5184",
-    GitHubProfile: "https://github.com/omkar-patange",
-    InstagramProfile: "https://www.instagram.com/omkarpatange_",
-  },
-  {
-    Name: "Vidyadhar Dinde",
-    Board: "Assistant",
-    Position: "Assistant Programming Expert",
-    Photo:
-      "https://res.cloudinary.com/du3cgjere/image/upload/v1693624879/sait%20images/Vidyadhar_dhinde_maqujm.jpg",
-    LinkedInProfile: "https://www.linkedin.com/in/vidyadhar-dinde-447371252/",
-    GitHubProfile: "https://github.com/vidyadhar01",
-    InstagramProfile: "https://www.instagram.com/_vidyadhar_d/",
-  },
-  {
-    Name: "Satej Sawant",
-    Board: "Assistant",
-    Position: "Assistant Programming Expert",
-    Photo:
-      "https://res.cloudinary.com/du3cgjere/image/upload/v1693624861/sait%20images/Satej_Sawant_p4jvnv.jpg",
-    LinkedInProfile: "https://www.linkedin.com/in/satej-sawant-92a8a4269",
-    GitHubProfile: "https://github.com/SatejSawant45",
-    InstagramProfile: "https://www.instagram.com/satej.s",
-  },
-
-  {
-    Name: "Adarsh Sahu",
-    Board: "Assistant",
-    Position: "Assistant Programming Expert",
-    Photo:
-      "https://res.cloudinary.com/du3cgjere/image/upload/v1693624823/sait%20images/Adarsh_Sahu_drf55h.jpg",
-    LinkedInProfile: "https://www.linkedin.com/in/adarsh-sahu-8888aa244/",
-    GitHubProfile: "https://github.com/AdarshSahu460",
-    InstagramProfile: "https://www.instagram.com/theadarshsahu/",
-  },
-  {
-    Name: "Kranti  Varekar",
-    Board: "Assistant",
-    Position: "Assistant Public Relation Officer",
-    Photo:
-      "https://res.cloudinary.com/du3cgjere/image/upload/v1693624849/sait%20images/kranti_varekar_stdltn.jpg",
-    LinkedInProfile: "https://www.linkedin.com/in/kranti-varekar-1a7404267",
-    GitHubProfile: "https://github.com/krnati",
+    GitHubProfile: "",
     InstagramProfile: "",
   },
   {
-    Name: "Purva Patil",
-    Board: "Assistant",
-    Position: "Assistant Public Relation Officer",
-    Photo:
-      "https://res.cloudinary.com/du3cgjere/image/upload/v1693624856/sait%20images/Purva_Patil_bnofca.jpg",
-    LinkedInProfile: "https://www.linkedin.com/in/purva-patil-a29175270",
-    GitHubProfile: "https://github.com/Purva200",
-    InstagramProfile:
-      "https://instagram.com/purva_patil_2108?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D",
-  },
-
-  {
-    Name: "Divya Tarkase",
-    Board: "Assistant",
-    Position: "Assistant Public Relation Officer",
-    Photo:
-      "https://res.cloudinary.com/du3cgjere/image/upload/v1693624845/sait%20images/Divya_Tarkase_zesjnq.jpg",
-    LinkedInProfile: "https://www.linkedin.com/in/divya-tarkase-56ab30265",
-    GitHubProfile: "https://github.com/DivyaTarkase",
-    InstagramProfile:
-      "https://instagram.com/dearly_div?utm_source=qr&igshid=ZDc4ODBmNjlmNQ%3D%3D",
-  },
-
-  {
-    Name: "Prathamesh Patil",
-    Board: "Assistant",
-    Position: "Assistant Public Relation Officer",
-    Photo:
-      "https://res.cloudinary.com/dptdrzycj/image/upload/v1704356513/23620003_-_Prathamesh_Patil_hv20xp.jpg",
-    LinkedInProfile:
-      "https://www.linkedin.com/in/prathamesh-patil-20b8aa28b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-    GitHubProfile: null,
-    InstagramProfile: "https://www.instagram.com/07_pratham_patil",
-  },
-  {
-    Name: "Vedant Panari",
-    Board: "Assistant",
-    Position: "Assistant Aptitude Developer",
-    Photo:
-      "https://res.cloudinary.com/du3cgjere/image/upload/v1693624878/sait%20images/Vedant_Panari_h6huyi.jpg",
-    LinkedInProfile: "https://www.linkedin.com/in/vedant-panari-379869287",
-    GitHubProfile: "https://github.com/VedantPanari",
-    InstagramProfile:
-      "https://instagram.com/vedantpanari?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D",
-  },
-
-  {
-    Name: "Anuja Suntnur",
-    Board: "Assistant",
-    Position: "Assistant Aptitude Developer",
-    Photo:
-      "https://res.cloudinary.com/du3cgjere/image/upload/v1693624844/sait%20images/Anuja_Suntnur_gdbyof.jpg",
-    LinkedInProfile: "https://www.linkedin.com/in/anuja-suntnur-93176225b",
-    GitHubProfile: "https://github.com/anuja2004",
-    InstagramProfile: "https://www.instagram.com/_anuja_suntnur",
-  },
-  {
-    Name: "Aditya Aparadh",
-    Board: "Assistant",
-    Position: "Assistant Aptitude Developer",
-    Photo:
-      "https://res.cloudinary.com/du3cgjere/image/upload/v1693624824/sait%20images/Aditya_Aparadh_o603b1.jpg",
-    LinkedInProfile: "https://www.linkedin.com/in/aditya-aparadh-279638255",
-    GitHubProfile: "https://github.com/AdityaAparadh",
-    InstagramProfile: "",
-  },
-
-  {
-    Name: "Ameya Unchagaonkar",
-    Board: "Assistant",
-    Position: "Assistant Aptitude Developer",
-    Photo:
-      "https://res.cloudinary.com/du3cgjere/image/upload/v1693624841/sait%20images/Ameya_Uchagaonkar_kpzvbc.png",
-    LinkedInProfile: "https://www.linkedin.com/in/ameya-unchagaonkar-13b99327a",
-    GitHubProfile: "https://github.com/aunchagaonkar",
-    InstagramProfile: "",
-  },
-
-  {
-    Name: "Mahemud Borgave",
-    Board: "Assistant",
-    Position: "Assistant Aptitude Developer",
-    Photo:
-      "https://res.cloudinary.com/dptdrzycj/image/upload/v1704356686/md_1_-_23620005_BORGAVE_MAHEMUD_USMAN_nnhxht.jpg",
-    LinkedInProfile: "https://www.linkedin.com/in/mahemud-borgave-b01762231/",
-    GitHubProfile: "https://github.com/mahemudborgave",
-    InstagramProfile: "https://www.instagram.com/95_mahemud/",
-  },
-  {
-    Name: "Vaibhav Kondekar",
+    Name: "Vishant Sutar",
     Board: "Assistant",
     Position: "Asistant Editor",
     Photo:
-      "https://res.cloudinary.com/du3cgjere/image/upload/v1693624882/sait%20images/Vaibhav_Kondekar_mqvrcc.jpg",
-    LinkedInProfile: "https://www.linkedin.com/in/vaibhav-kondekar-671234265",
-    GitHubProfile: "https://github.com/vaibhavKondekar",
+      "https://res.cloudinary.com/dmeicehn2/image/upload/v1726398190/IMG_20230928_115113_-_Vishant_Sutar_tgsawg.jpg",
+    LinkedInProfile: "https://www.linkedin.com/in/vishant-sutar",
+    GitHubProfile: "https://github.com/vishantsutar26/vishantsutar26",
     InstagramProfile:
-      "https://instagram.com/_vaibhav_7897?utm_source=qr&igshid=ZDc4ODBmNjlmNQ%3D%3D",
+      "https://www.instagram.com/vishantsutar26",
   },
   {
-    Name: "Ishwari Gharge",
+    Name: "Tanvi Diwan",
     Board: "Assistant",
     Position: "Assistant Art Director",
     Photo:
-      "https://res.cloudinary.com/du3cgjere/image/upload/v1693624846/sait%20images/Ishwari_Gharge_kwsrf3.jpg",
-    LinkedInProfile: "https://www.linkedin.com/in/ishwari-gharge-ab5aa0274",
-    GitHubProfile: "https://github.com/IshwariGharge",
+      "https://res.cloudinary.com/dmeicehn2/image/upload/v1726398185/20220421_211427_-_Tanvi_Diwan_xiwekw.jpg",
+    LinkedInProfile: "https://www.linkedin.com/in/tanvi-diwan-6398b6292?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+    GitHubProfile: "https://github.com/tanvidiwan05",
     InstagramProfile:
-      "https://instagram.com/ish_wari__26?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D",
+      "https://www.instagram.com/tanvi.diwan.05?igsh=aXkzYW1zamxqbms2",
   },
   {
-    Name: "Aryan Babar",
+    Name: "Dnyanda Lahamage",
     Board: "Assistant",
     Position: "Assistant Art Director",
     Photo:
-      "https://res.cloudinary.com/du3cgjere/image/upload/v1693624850/sait%20images/Aryan_Babar_z65lg2.jpg",
-    LinkedInProfile: "https://www.linkedin.com/in/aryan-babar-84771a259",
-    GitHubProfile: "https://github.com/Aaryalegend",
-    InstagramProfile: "https://instagram.com/aryanbabar5796",
+      "https://res.cloudinary.com/dmeicehn2/image/upload/v1726398160/InShot_20240814_000530633_-_23610083_LAHAMAGE_DNYANDA_NILESH_avwndb.jpg",
+    LinkedInProfile: "",
+    GitHubProfile: "",
+    InstagramProfile: "",
   },
   {
-    Name: "Shreyash Pawar",
+    Name: "Avinash Waykule",
     Board: "Assistant",
     Position: "Assistant Treasurer",
     Photo:
-      "https://res.cloudinary.com/du3cgjere/image/upload/v1693639889/sait%20images/Shreyash_Pawar_esnozv.jpg",
-    LinkedInProfile: "https://www.linkedin.com/in/shreyash-pawar-386486249",
+      "https://res.cloudinary.com/dmeicehn2/image/upload/v1726398188/ohoto_-_avinash_waykule_ddd2rs.jpg",
+    LinkedInProfile: "https://www.linkedin.com/in/avinash-waykule-046488292?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
     GitHubProfile: "https://github.com/Ssp63",
     InstagramProfile:
-      "https://instagram.com/s.s.p_63?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D",
+      "https://www.instagram.com/avinashwaykule02/",
   },
   {
-    Name: "Atharva Khot",
+    Name: "Ankita Kamble",
     Board: "Assistant",
     Position: "Assistant Treasurer",
     Photo:
-      "https://res.cloudinary.com/du3cgjere/image/upload/v1693624840/sait%20images/Atharva_Khot_brdsdz.jpg",
-    LinkedInProfile: "https://www.linkedin.com/in/atharva-khot-3b2479257",
-    GitHubProfile: "https://github.com/AtharvaKhot17",
+      "https://res.cloudinary.com/dmeicehn2/image/upload/v1726402381/photo_-_Ankita_Kamble_1_vtpwym.jpg",
+    LinkedInProfile: "https://www.linkedin.com/in/ankita-kamble-5453372a0/",
+    GitHubProfile: "",
     InstagramProfile:
-      "https://instagram.com/_atharva017?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D",
+      "",
   },
 ];
 
