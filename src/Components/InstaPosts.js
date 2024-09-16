@@ -41,7 +41,7 @@ const navigate = useNavigate();
                   className="bg-[#288CEF] w-[130px] h-[40px] px-3 py-2 text-white font-semibold rounded-lg cursor-pointer"
                   target="_blank"
                 >
-                  know more
+                  Know More
                 </Link>
               </div>
             </div>

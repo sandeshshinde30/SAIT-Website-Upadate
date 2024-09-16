@@ -1,5 +1,5 @@
 import React, { forwardRef } from "react";
-import SvgImage from "../Assets/sait.jpg";
+import SvgImage from "../Assets/SAIT_2024-25.jpg";
 
 const AboutComponent = forwardRef((props, ref) => {
   return (
