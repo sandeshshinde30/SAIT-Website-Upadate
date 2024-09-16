@@ -50,6 +50,31 @@ const clubServices = [
         name:"Abdul Rehman"
       }
     ]
+  },
+  {
+    id:2,
+    poster_url:"https://res.cloudinary.com/dmeicehn2/image/upload/v1726404051/ai_and_prompt_uyy11p.jpg",
+    images:[],
+    event_name: "Introduction to prompt Engineering and AI tools",
+    description:
+      "Transforming Words into Actions: The Power of Prompt Engineering We, Students Association of Information Technology  here to dive you into the World of Prompt Engineering! ",
+    
+    Winners: [
+      {
+        name: "-",
+        
+      }
+      ,
+      {
+        name:"-"
+      }
+    ],
+    Presentors:
+      [
+        {
+        name:"Prapti Gawande and Shashank Pujari."
+      }
+    ]
   }
 
 ];
